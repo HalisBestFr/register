@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "halisbestfr"
+    "username": "halisbestfr",
+    "email": "muscleafk@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "halisbestfr.github.io"
   }
 }
